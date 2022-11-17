@@ -4,7 +4,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <History>True|2022-11-10T11:25:31.2027761Z;False|2022-11-10T08:25:10.9883603-03:00;</History>
+    <History>True|2022-11-17T18:19:52.9504027Z;True|2022-11-10T08:25:31.2027761-03:00;False|2022-11-10T08:25:10.9883603-03:00;</History>
     <LastFailureDetails />
     <_PublishTargetUrl>C:\Projects\Smite\BackEnd\WebApi\WebApi\bin\Release\net6.0\publish\</_PublishTargetUrl>
   </PropertyGroup>
