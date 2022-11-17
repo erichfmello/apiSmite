@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sSPWLda1MkL2uaMBTV2FMXzEjt2B2Iv3DIhQILdq0dAx6DXu4KhfgIjKtaESgynI+h9CzvPT9iMiu3GT0Yaltg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Smite\\BackEnd\\WebApi\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FrontEnd Oceano\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
