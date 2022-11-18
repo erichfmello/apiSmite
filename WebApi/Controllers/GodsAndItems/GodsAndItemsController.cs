@@ -34,7 +34,7 @@ namespace WebApi.Controllers.GodsAndItems
         [Route("ItemList"), HttpPost]
         public ActionResult<ItemListResponse> ItemList(ItemListRequest request)
         {
-            ItemListResponse response = new ItemListResponse();
+            ItemListResponse response = new();
             try
             {
                 if (request == null)
